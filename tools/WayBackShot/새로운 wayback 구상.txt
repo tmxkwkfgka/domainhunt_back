@@ -1,0 +1,27 @@
+레지스터 콤파스 1페이지에서 collect 누르면 10페이지 정도까지 url 저장함(이미 들어있는놈은 제외)
+
+관리 페이지에서 wayback하면 wayback뜸
+
+
+ror: net::ERR_HTTP2_SERVER_REFUSED_STREAM at https://web.archive.org/web/20050520043810/http://mstkd.com/
+    at navigate (E:\np\domainhunt-back\node_modules\puppeteer\lib\cjs\puppeteer\common\FrameManager.js:115:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+domainName  =  philadelphiaeddiestattoo.com
+Error: net::ERR_HTTP2_SERVER_REFUSED_STREAM at https://web.archive.org/web/20050520043810/http://philadelphiaeddiestattoo.com/
+    at navigate (E:\np\domainhunt-back\node_modules\puppeteer\lib\cjs\puppeteer\common\FrameManager.js:115:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+domainName  =  feedtacoma.com
+Error: net::ERR_HTTP2_SERVER_REFUSED_STREAM at https://web.archive.org/web/20050520043810/http://feedtacoma.com/
+    at navigate (E:\np\domainhunt-back\node_modules\puppeteer\lib\cjs\puppeteer\common\FrameManager.js:115:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+domainName  =  watersofwhitehall.com
+domainName  =  gmbakashworkshop.com
+domainName  =  maristascostarica.org
+domainName  =  spdcanada.com
+domainName  =  picnichighpark.com
+Error: net::ERR_HTTP2_SERVER_REFUSED_STREAM at https://web.archive.org/web/20210520043810/http://picnichighpark.com/
+    at navigate (E:\np\domainhunt-back\node_modules\puppeteer\lib\cjs\puppeteer\common\FrameManager.js:115:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+domainName  =  rwhfoundation.com
+Error: net::ERR_HTTP2_SERVER_REFUSED_STREAM at https://web.archive.org/web/20200520043810/http://rwhfoundation.com/
+    at navigate (E:\np\domainhunt-back\node_modules\puppeteer\lib\cjs\puppeteer\common\FrameManager.js:115:23)

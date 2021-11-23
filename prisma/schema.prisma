@@ -1,0 +1,71 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model User {
+
+  id      Int      @default(autoincrement()) @id
+  email   String   @unique
+  name    String?
+  posts   Post[]
+
+
+}
+
+model Post {
+  id        Int      @default(autoincrement()) @id
+  title     String
+  content   String?
+  published Boolean? @default(false)
+  author    User?    @relation(fields: [authorId], references: [id])
+  authorId  Int?
+}
+
+model DomainInfo {
+  id        Int      @default(autoincrement()) @id
+  name      String   @unique
+  myPoint   Int?       
+  comment   String? @db.Text
+  maxTraffic Int?
+  yearMonth String ?  @db.Text
+  organicTraffic  String? @db.Text
+  paidTraffic  String? @db.Text
+  topKeyword String? @db.Text
+  fourKerword String? @db.Text
+  elevenKeyWord String? @db.Text
+  twentyOneKeyword String? @db.Text
+  fiftyOneKeyword String? @db.Text
+  totalKeyword String? @db.Text
+  maxYearMonth String?
+  screenShot String?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  endAt DateTime?
+  shotPath String?
+ 
+}
+
+// 도메인 네임(unique)
+// myPoint: 0: 탈락 1: 보류 2: 강추 -1: 오류
+// comment
+// maxTraffic : 5개월기준 최대트래픽 semrush
+// screenShot: Y, E, 
+
+// yearMonth
+// Organic Traffic
+// Paid Traffic
+// "Top 3"
+// "4-10"
+// 11-20"
+// "21-50"
+// "51-100"
+// "Total"
+// //5 month max traffic

@@ -1,0 +1,4 @@
+trs.filter((tr)=>{
+    return tr.hasAttribute("title")
+  
+})

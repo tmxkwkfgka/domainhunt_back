@@ -1,0 +1,339 @@
+[
+    {
+      "name": "ref_code",
+      "value": "__default__",
+      "domain": ".semrush.com",
+      "path": "/",
+      "expires": 1928819667,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.1147142179.1613459668",
+      "domain": ".semrush.com",
+      "path": "/",
+      "expires": 1683654907,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1632480653.1613459668",
+      "domain": ".semrush.com",
+      "path": "/",
+      "expires": 1621235667,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "visit_first",
+      "value": "1613459668212",
+      "domain": ".semrush.com",
+      "path": "/",
+      "expires": 1928819668,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1613459668398.694110124",
+      "domain": ".semrush.com",
+      "path": "/",
+      "expires": 1621575533,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mindboxDeviceUUID",
+      "value": "92b14c94-5af1-421b-8a15-d98564799d19",
+      "domain": ".semrush.com",
+      "path": "/",
+      "expires": 2150118000,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "directCrm-session",
+      "value": "%7B%22deviceGuid%22%3A%2292b14c94-5af1-421b-8a15-d98564799d19%22%7D",
+      "domain": ".semrush.com",
+      "path": "/",
+      "expires": 1676473200,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "G_ENABLED_IDPS",
+      "value": "google",
+      "domain": ".www.semrush.com",
+      "path": "/",
+      "expires": 253402257600,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "sso_token",
+      "value": "60a41a2a89b113ff3e0be132c968612f983f91a5046e5edae27f0b6295850ce1",
+      "domain": ".semrush.com",
+      "path": "/",
+      "expires": 1644995673.056068,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "name": "userdata",
+      "value": "%7B%22tz%22%3A%22GMT+9%22%2C%22ol%22%3A%22ko%22%7D",
+      "domain": ".semrush.com",
+      "path": "/",
+      "expires": 1651562230,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "utz",
+      "value": "Asia%2FSeoul",
+      "domain": "www.semrush.com",
+      "path": "/",
+      "expires": 1645202603,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "_rdt_uuid",
+      "value": "1615886839646.e67e7366-3cb0-45ed-8f61-7e787f0f508c",
+      "domain": ".semrush.com",
+      "path": "/",
+      "expires": 1628358910,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "_mkto_trk",
+      "value": "id:519-IIY-869&token:_mch-semrush.com-1615886839661-37123",
+      "domain": ".semrush.com",
+      "path": "/",
+      "expires": 1683654910,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "sas_m_awin",
+      "value": "{\"clickId\":\"31k5_j9kml\"}",
+      "domain": ".semrush.com",
+      "path": "/",
+      "expires": 1647678400,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "__pdst",
+      "value": "678550628dee4770ae0b28e5c00b9ff0",
+      "domain": "www.semrush.com",
+      "path": "/",
+      "expires": 1648275279,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "do-favorite-db",
+      "value": "kr",
+      "domain": "www.semrush.com",
+      "path": "/",
+      "expires": 1651562229.465678,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "_ampl",
+      "value": "X2YpiLiS3ziuBAvhDEKAp",
+      "domain": "www.semrush.com",
+      "path": "/",
+      "expires": 1622829413,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "name": "usertype",
+      "value": "Paid-User",
+      "domain": ".semrush.com",
+      "path": "/",
+      "expires": 1935597433.437538,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "name": "refer_source",
+      "value": "\"\"",
+      "domain": ".semrush.com",
+      "path": "/",
+      "expires": 1935597441,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "db",
+      "value": "kr",
+      "domain": ".www.semrush.com",
+      "path": "/",
+      "expires": 1651773669,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "db",
+      "value": "kr",
+      "domain": "www.semrush.com",
+      "path": "/",
+      "expires": 1651773669,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "PHPSESSID",
+      "value": "85996a3f231efd025982a8fd3e6e7ecb",
+      "domain": ".semrush.com",
+      "path": "/",
+      "expires": 1620669277.341566,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "name": "SSO-JWT",
+      "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI4NTk5NmEzZjIzMWVmZDAyNTk4MmE4ZmQzZTZlN2VjYiIsImlhdCI6MTYyMDU4Mjg3MiwiaXNzIjoic3NvIiwidWlkIjo3NTg2MzIzfQ.y5bO1ve0-UGS7Q9xA9ZwS1OAKH25wf5hhLH-tm9dt_FOtbq6YGbSLPFMtzHHT5A9aGeleOz2U65VcgIHCBSYQQ",
+      "domain": ".semrush.com",
+      "path": "/",
+      "expires": 1620669277.341647,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "name": "GCLB",
+      "value": "CNCZkpCcy_nbvgE",
+      "domain": "www.semrush.com",
+      "path": "/",
+      "expires": 1620669277.341691,
+      "httpOnly": true,
+      "secure": false
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.317549114.1620582879",
+      "domain": ".semrush.com",
+      "path": "/",
+      "expires": 1620669307,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "lux_uid",
+      "value": "162058287934454976",
+      "domain": "www.semrush.com",
+      "path": "/",
+      "expires": 1620584679.343976,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "last_sidebar_tk",
+      "value": "seo",
+      "domain": ".semrush.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "__insp_wid",
+      "value": "1764246400",
+      "domain": ".semrush.com",
+      "path": "/",
+      "expires": 1652118909.147514,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "name": "__insp_slim",
+      "value": "1620582909147",
+      "domain": ".semrush.com",
+      "path": "/",
+      "expires": 1652118909.147848,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "name": "__insp_nv",
+      "value": "true",
+      "domain": ".semrush.com",
+      "path": "/",
+      "expires": 1652118909.148843,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "name": "__insp_targlpu",
+      "value": "aHR0cHM6Ly93d3cuc2VtcnVzaC5jb20vYW5hbHl0aWNzL292ZXJ2aWV3Lz9xPWNvbnRvcnJlbnRzLmNvbSZzZWFyY2hUeXBlPWRvbWFpbg%3D%3D",
+      "domain": ".semrush.com",
+      "path": "/",
+      "expires": 1652118909.150997,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "name": "__insp_targlpt",
+      "value": "Y29udG9ycmVudHMuY29tOiBEb21haW4gT3ZlcnZpZXc%3D",
+      "domain": ".semrush.com",
+      "path": "/",
+      "expires": 1652118909.150838,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "name": "__insp_norec_howoften",
+      "value": "true",
+      "domain": ".semrush.com",
+      "path": "/",
+      "expires": 1652118909.42628,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "name": "__insp_norec_sess",
+      "value": "true",
+      "domain": ".semrush.com",
+      "path": "/",
+      "expires": 1652118909.427091,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "name": "_uetsid",
+      "value": "a00c9fc0b0ef11eb8ede3bcddde465de",
+      "domain": ".semrush.com",
+      "path": "/",
+      "expires": 1620669309,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "_uetvid",
+      "value": "82754940abca11eb82df3f638e650e9b",
+      "domain": ".semrush.com",
+      "path": "/",
+      "expires": 1621986909,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "intercom-session-cs07vi2k",
+      "value": "YUxsRjlKdlFXSTVwZkZpR05ObnN2MGRDbjVJZmpZZnlzTXlUcC9pZm5rM1pad0hMWEYweEZQRkgxZnFpbFJEbS0tdkpOanZKTURwS1VleC9zMjBzTjFKUT09--e2e2a5c2cca05f6177eb65a80b2bacbe767d4bcc",
+      "domain": ".semrush.com",
+      "path": "/",
+      "expires": 1621187713,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ]
